@@ -5,7 +5,7 @@ I am an avid learner, and software engineer. Primarily I focus on Python (Django
 Alongside my main languages, I have also invested time (but wouldn't call myself proficient in) C++, C, Elixir, Dart/Flutter, and some others. (Did I mention I like to learn)
 
 There are also several core technologies I understand well including SQL(ite)/Postgres, Redis, Azure, Git(hub), and more abstract ones like machine learning, etc.
-I have a computer science degree, and currently work for IP Integration, see OakleyIPI for a more accurate commit history.
+I have a computer science degree (1st w/ Honours), and currently work for IP Integration, see OakleyIPI for a more accurate commit history.
 
 ----------
 
